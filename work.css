@@ -1,0 +1,51 @@
+.site {
+    padding: 0px;
+    
+    }
+
+.inner {
+    background-color: #063D5C;
+    padding: 10px;
+    }
+
+.masthead {
+    padding: 2em 0;
+    background-image: url('https://media.licdn.com/dms/image/C561BAQFW5C_K0tSyAQ/company-background_10000/0?e=2159024400&v=beta&t=ZOuidMI48ckIcnn8rod6vUlVLSBgBylYuy9dWIlNLsQ');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .masthead-intro {
+      margin-bottom: 0.1em;
+      font-size: 2em;
+      color: #ffffff;
+      
+  }
+  
+  .masthead-heading {
+      margin-top: -0.2em;
+      font-weight: bold;
+      font-size: 6em;
+      letter-spacing: -0.02em;
+      text-transform: uppercase;
+      color: #ffffff;
+      
+  }
+  a {
+      color: white;
+  }
+  a:hover { 
+    color: #A76630;
+  }
+  strong {
+      color: #9BA340;
+  }
+
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+    background-color: #063D5C;
+    padding: 5px;
+    padding-bottom: 30px;
+}

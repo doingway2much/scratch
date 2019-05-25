@@ -3,7 +3,9 @@ body {
     font-size: 1em;
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
 }
-
+.col-sm {
+  background-color: darkslategrey;
+}
 .content-footer,
 .masthead-heading,
 .masthead-intro {
