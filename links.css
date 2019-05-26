@@ -1,0 +1,54 @@
+.site {
+  padding: 0px;
+}
+
+body {
+    font-size: .8em;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+.col-sm {
+  background-color: #333333;
+  width: 1024px;
+}
+.inner {
+  background-color: #333333;
+  padding: 15px;
+}
+
+
+.masthead {
+  padding: 4em ;
+  background-image: url('img/code.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.masthead-intro {
+    margin-bottom: 0.1em;
+    font-size: 2em;
+    color:#333333;
+}
+
+.masthead-heading {
+    font-weight: bold;
+    font-size: 6em;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    color: white;
+}
+.container{
+  width: 1024px;
+  margin: 0 auto;
+}
+
+a {
+  color:#D89177;
+}
+a:hover {
+  color: #959B73;
+}
+strong {
+  color:white;
+}
+
+
